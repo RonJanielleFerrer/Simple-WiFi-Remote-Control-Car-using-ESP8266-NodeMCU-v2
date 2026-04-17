@@ -33,16 +33,16 @@ The NodeMCU receives control commands from a user interface, processes these sig
 <details> 
 <summary> Images </summary>
   
-## Top View
+# Top View
 <img width="1800" height="2400" alt="RC Car Top" src="https://github.com/user-attachments/assets/3a08199b-e287-44a1-9c7e-a3fbc003d413" />
 
-## Right Side View
+# Right Side View
 <img width="2382" height="1787" alt="RC Car Right" src="https://github.com/user-attachments/assets/0ba4c142-0671-4e97-9702-19d0ecf13afc" />
 
-## Left Side View
+# Left Side View
 <img width="2400" height="1800" alt="RC Car Left" src="https://github.com/user-attachments/assets/1e82766b-471a-4a13-a841-1b5ffaf49937" />
 
-## Isometric View
+# Isometric View
 <img width="2400" height="1800" alt="RC Car Isometric" src="https://github.com/user-attachments/assets/5cba56d9-3a68-43e8-9c5f-bde8455c2cd3" />
 
 </details>
