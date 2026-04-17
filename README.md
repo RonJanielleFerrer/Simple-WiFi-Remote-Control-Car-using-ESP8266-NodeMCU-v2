@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/42616b90-fd63-46c3-9035-baf0a19b5b92
-
 # Simple WiFi Remote Control Car using ESP8266 NodeMCU v2
 
 ---
