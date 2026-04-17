@@ -30,8 +30,9 @@ The Simple WiFi Remote Control Car is a mobile robotic platform that can be wire
 
 The NodeMCU receives control commands from a user interface, processes these signals, and sends appropriate outputs to the L298N motor driver module. The motor driver then controls the direction and speed of the DC motors, allowing the car to move forward, backward, left, and right. The entire system is powered by rechargeable lithium-ion batteries, making it portable and efficient.
 
-<details> 
-<summary> Images </summary>
+---
+
+## Images
   
 ### Top View
 <img width="1800" height="2400" alt="RC Car Top" src="https://github.com/user-attachments/assets/3a08199b-e287-44a1-9c7e-a3fbc003d413" />
@@ -45,8 +46,12 @@ The NodeMCU receives control commands from a user interface, processes these sig
 ### Isometric View
 <img width="2400" height="1800" alt="RC Car Isometric" src="https://github.com/user-attachments/assets/5cba56d9-3a68-43e8-9c5f-bde8455c2cd3" />
 
-</details>
 ---
+
+## Documentation
+
+
+
 
 ## Communication System Overview
 Communication is the core component of this project, as it enables real-time wireless control of the vehicle. The ESP8266 NodeMCU uses WiFi technology to establish a connection between the user and the robot. The microcontroller acts as a server or access point, receiving commands transmitted from a client device such as a smartphone or laptop.
