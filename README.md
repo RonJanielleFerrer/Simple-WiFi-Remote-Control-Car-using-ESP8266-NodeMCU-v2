@@ -1,8 +1,10 @@
 # Simple WiFi Remote Control Car using ESP8266 NodeMCU v2
 
-## Introduction
+---
+<details>
+<summary> ## Introduction </summary>
 This project presents the design and development of a WiFi-based remote-controlled car using the ESP8266 NodeMCU v2 microcontroller. The system applies key concepts from communication engineering, including wireless transmission, signal processing, and real-time control. By utilizing embedded networking and microcontroller-based design, the project demonstrates how modern communication technologies can be implemented in mobile robotic systems for remote operation and control.
-
+</details>
 ---
 
 ## Objective
@@ -29,6 +31,7 @@ The Simple WiFi Remote Control Car is a mobile robotic platform that can be wire
 The NodeMCU receives control commands from a user interface, processes these signals, and sends appropriate outputs to the L298N motor driver module. The motor driver then controls the direction and speed of the DC motors, allowing the car to move forward, backward, left, and right. The entire system is powered by rechargeable lithium-ion batteries, making it portable and efficient.
 
 ---
+
 
 ## Communication System Overview
 Communication is the core component of this project, as it enables real-time wireless control of the vehicle. The ESP8266 NodeMCU uses WiFi technology to establish a connection between the user and the robot. The microcontroller acts as a server or access point, receiving commands transmitted from a client device such as a smartphone or laptop.
