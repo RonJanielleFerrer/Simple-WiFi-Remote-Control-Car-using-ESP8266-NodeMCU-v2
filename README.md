@@ -31,7 +31,9 @@ The Simple WiFi Remote Control Car is a mobile robotic platform that can be wire
 The NodeMCU receives control commands from a user interface, processes these signals, and sends appropriate outputs to the L298N motor driver module. The motor driver then controls the direction and speed of the DC motors, allowing the car to move forward, backward, left, and right. The entire system is powered by rechargeable lithium-ion batteries, making it portable and efficient.
 
 ---
-## Code
+
+## Circuit Diagram
+<img width="1007" height="723" alt="RC Car Ckt Diagram" src="https://github.com/user-attachments/assets/d5cd277f-3537-406d-8aed-4a30b514008b" />
 
 ---
 
@@ -56,7 +58,7 @@ The NodeMCU receives control commands from a user interface, processes these sig
 ### RC Car Test 1
 https://github.com/user-attachments/assets/08931302-4303-4865-92dd-b561983b87ca
 
-### RC Car Test 1
+### RC Car Test 2
 https://github.com/user-attachments/assets/e81d43bc-9e58-4e93-8c35-bc8fe050ed6a
 
 ---
